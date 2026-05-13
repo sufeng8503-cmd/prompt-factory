@@ -1,0 +1,170 @@
+金晨·一袭白衣如雪·舞动《青花瓷》
+国风独舞 · 16宫格分镜图 + Seedance + Grok 三件套
+版本：2026-05-13
+
+==================================================
+PART 1：16宫格分镜图提示词
+==================================================
+
+请创作一张高完成度、超高清、清晰通透、写实且富有电影感的
+「金晨·白衣青花瓷·国风独舞·16宫格分镜图」。
+
+━━━━━━━━━━━━━━━━━━━━
+
+【整体定位】
+不是普通古风写真，也不是简单舞蹈教学图，
+而是融合「青花瓷国风美学」「古典舞经典动作」「水墨意境舞台空间」
+「16步独舞编舞分镜」「电影感镜头设计」的高完成度分镜海报。
+
+整张图像一段完整的国风舞蹈被拆解成16个关键动作画面，
+每一格既独立成立，又具有连续流动感、文化识别度和明显动作层次，
+适合后续作为视频生成分镜参考。
+
+━━━━━━━━━━━━━━━━━━━━
+
+【场景设定】
+不要现代舞台，不要空背景，不要摄影棚，不要过度华丽宫殿。
+场景必须是一个具有水墨意境的空间：
+
+• 极简中式舞台，背景为巨幅水墨青花瓷画卷或圆形月洞门
+• 地面有淡淡的水墨纹理投影，如水波荡漾
+• 空间中有半透明白色纱幔，被微风吹动
+• 光影氛围：顶部柔光如月光倾泻，画面有淡蓝+白色的冷色调
+  也有暖金色追光的点缀，整体如青花瓷般清雅
+• 主色调为陶瓷白、青花蓝、水墨灰、淡金色
+• 空间层次：前景纱幔、中景舞者、后景水墨画
+• 整体氛围：清雅、飘逸、有水墨画的流动感
+• 画面必须清晰通透，不要浑浊，不要斑点
+
+━━━━━━━━━━━━━━━━━━━━
+
+【人物设定】
+主角是一位年轻中国女舞者，气质清冷、优雅、飘逸、富有国风韵味，
+像一位从青花瓷画中走出的古典美人。
+
+在16格中必须保持：
+- 同一张脸（精致五官，清冷气质，像金晨般的长相）
+- 同一人物身份（国风古典舞者）
+- 同一气质（清冷、优雅、飘逸、高雅）
+- 同一套服装体系：纯白色长袖舞服 + 青花点缀
+- 不要每格像换了一个人
+
+━━━━━━━━━━━━━━━━━━━━
+
+【服装与妆造】
+服装为国风清雅风格的舞服：
+• 上装：纯白色宽袖长衫，质感轻薄飘逸如雪，袖口和领口有蓝色青花刺绣纹样（缠枝莲或祥云图案）
+• 下装：白色曳地长裙，裙摆宽大轻盈，舞动时如云如雾
+• 外搭：一层极薄的浅蓝色透明轻纱披在外层，增添层次感
+• 腰带：一条细蓝色腰链，有青花瓷片装饰，系于腰间
+• 配饰：简约白玉发簪、一对白玉耳坠
+• 妆造：清冷国风妆——白皙底妆、纤细黛眉（远山眉）、浅红唇、眼下贴一颗小水钻（如泪）
+• 核心道具：一把青色油纸伞或一面白色圆扇（带青花图案），视动作需要出现
+• 动态要求：宽袖、裙摆、轻纱披帛都要有真实动态，和身体动作联动
+
+━━━━━━━━━━━━━━━━━━━━
+
+【版式要求】
+• 4×4的16宫格排版
+• 每格有明显编号1-16
+• 每格有中文动作标题（如：袖展·回眸·旋身·定格）
+• 每格有简洁中文说明（不超过8个字）
+• 每格都像一个独立镜头画面
+• 整体工整、清晰、信息完整
+• 分辨率8K级别
+
+━━━━━━━━━━━━━━━━━━━━
+
+【动作分镜顺序·青花瓷独舞16步】
+
+1. 水墨初开：舞者侧身立于纱幔后，右手执白色圆扇半遮面，左手自然垂落，白色长衫和纱幔在微风中轻轻飘动，眼神低垂
+
+2. 扇缘微启：缓慢移开圆扇，露出清冷面容，眼神从低垂转为平视前方，蓝色腰链在光线下闪烁微光
+
+3. 白袖初展：双手缓缓展开广袖，袖口蓝色青花刺绣纹样绽露，白色轻纱披帛随手臂展开而飘动
+
+4. 踏云起步：左脚向前轻迈一步，身体微微前倾，宽袖随步伐向后飘动，裙摆如水波般荡漾
+
+5. 回眸一瞬：身体骤停，头部优雅回转，眼神回望，白色披帛在空中定格，形成飘逸弧线
+
+6. 旋袖·第一转：以左脚为轴轻柔旋转，白色广袖和披帛在离心力中展开如云，裙摆呈伞状散开
+
+7. 袖舞·右袖穿云：旋转中右手向上甩袖，白色长袖如云穿月般直上，袖口青花刺绣在空中划出蓝色轨迹
+
+8. 袖舞·左袖拂水：左手水平甩袖，白色长袖如流水般横向拂动，披帛缠绕手臂如云雾
+
+9. 仰首·望月：头部后仰，面向上方，双臂向两侧展开如鹤翼，广袖和披帛在身后展开，意境如望月思远
+
+10. 俯身·流水：上身大幅前倾，双手撑开广袖缓缓下压，裙摆和披帛在身后扬起，如流水般流畅
+
+11. 跪舞·白莲绽放：单膝跪地，另一腿屈膝，双手从胸前向两侧打开，广袖如白莲绽放
+
+12. 扇舞·青花流转：跪姿持白色圆扇，扇面在面前缓缓旋转一周，扇面的青花图案形成蓝色光晕
+
+13. 起身·衣袂翻飞：从跪姿优雅起身，宽袖和披帛在起身过程中大幅翻飞，裙摆旋转展开
+
+14. 双袖合拢：站定后双手缓缓收拢至胸前，双袖交叠如含苞，披帛自然垂落，眼神从高处收回
+
+15. 终章·广袖一甩：突然向身体两侧大幅展开双袖，如白鹤亮翅，披帛和裙摆全部飞扬，形成最飘逸的视觉高潮
+
+16. 水墨归寂：动作缓缓收束，回到近似第1格的侧身姿态，圆扇再次半遮面，纱幔在风中飘动
+   （首尾呼应，形成完整闭环）
+
+━━━━━━━━━━━━━━━━━━━━
+
+【重点要求】
+• 必须保持同一舞者一致性（脸/身份/气质/服装）
+• 必须突出核心元素：白色长袖、蓝色青花刺绣、披帛、圆扇
+• 每一格动作都要明显不同
+• 整体必须写实、清雅、国风韵味浓厚
+• 服装细节要清晰：青花刺绣纹理、薄纱透明度
+• 光影要有水墨画意境：月光般的柔光、青瓷般的淡蓝色调
+• 适合后续作为视频分镜参考
+
+━━━━━━━━━━━━━━━━━━━━
+
+==================================================
+PART 2：Seedance 2.0 提示词（中文·时间戳）
+==================================================
+
+15秒国风独舞「金晨·白衣青花瓷」，水墨舞台，清雅电影感，2.35:1宽银幕
+整段视频15秒，8个关键分镜
+
+0-2秒：
+中景，水墨意境舞台，背景为大幅青花瓷画卷，半透明白色纱幔在微风中飘动。年轻女舞者侧身立于纱幔后，右手执白色圆扇半遮面，白色宽袖长衫在微风中轻轻飘动，袖口蓝色青花刺绣隐约可见。追光从顶部倾泻，在舞者身上形成柔和冷白色主光。氛围清冷飘逸，犹如从青花瓷画中走出的古典美人。
+
+2-4.5秒：
+中近景，舞者缓慢移开圆扇露出面容，眼神从低垂转为温柔远视，清冷气质。双手缓缓展开广袖，袖口蓝色缠枝莲刺绣纹样在光线中闪烁微光。白色轻纱披帛随手臂展开而飘动，如云雾般。背景纱幔和青花瓷画卷虚化。侧逆光在人物轮廓上形成冷白色边缘光。
+
+4.5-7秒：
+全景，舞者以左脚为轴轻柔旋转360度，白色广袖和披帛在离心力中完全展开如云如雾，裙摆呈伞状旋转散开。背景中纱幔被带动飘动。镜头稳定跟随旋转，速度为慢动作。追光跟随舞者移动，在空间中形成动态光柱。
+
+7-9.5秒：
+中景，舞者头部后仰面向追光方向，双臂向两侧展开如鹤翼，广袖和披帛在身后完全展开。表情清冷中带一丝忧伤，如望月思远。镜头缓慢推进到中近景。逆光拍摄，人物轮廓有冷白色边缘光。
+
+9.5-12秒：
+中全景，舞者单膝跪地，双手从胸前向两侧缓缓打开，广袖如白莲绽放。白色圆扇置于地面，扇面的青花图案清晰可见。镜头从低角度微微仰拍，强调跪舞姿态的优美。柔光从顶部打下，在舞者身上形成柔和的光晕。
+
+12-14秒：
+中景，舞者从跪姿优雅起身，宽袖和披帛在起身过程中大幅翻飞。站定后双手向身体两侧大幅展开广袖，如白鹤亮翅，披帛和裙摆全部向后飞扬。镜头拉远到全景，捕捉最华美的视觉高潮。
+
+14-15秒：
+全景，动作缓缓收束，舞者回到初始的侧身姿态，白色圆扇再次半遮面，眼神低垂。纱幔继续在微风中飘动，追光缓慢收窄到一束。画面定格4秒后淡出，首尾呼应形成闭环。
+
+禁止：任何文字字幕或水印、不自然的动作、僵硬姿态、人物换脸
+
+==================================================
+PART 3：Grok 3 提示词（英文·电影感原生段落）
+==================================================
+
+A cinematic 15-second classical Chinese dance video featuring a young female dancer in pure white flowing silk costume with blue-and-white porcelain (Qinghua) embroidery.
+
+The scene is a minimalist ink-wash painting stage with a giant blue-and-white porcelain mural as backdrop, translucent white silk curtains gently swaying in the breeze. The lighting is ethereal moonlight from above, creating a cool white-blue atmosphere with subtle warm amber accent.
+
+The dancer wears a pure white long-sleeve costume with blue porcelain pattern embroidery along the cuffs and collar, a thin light blue transparent silk overskirt, and a blue jade waist chain. She holds a white round fan with traditional blue flower pattern.
+
+The 15-second sequence: She stands sideways behind translucent curtains, white fan half-covering her face. Slowly she lowers the fan revealing her face with a cool elegant expression. She spreads her wide sleeves — blue embroidery catching the light. She spins gracefully, white sleeves and silk ribbons expanding like clouds. She tilts her head back looking up, arms spread like a crane's wings, sleeves flowing behind. She kneels on one knee, opening her arms like a white lotus blooming. She rises, sleeves flying dramatically, then suddenly spreads both arms wide like a white crane — the most beautiful moment. Finally she returns to the starting pose, fan covering her face in a perfect loop.
+
+Camera: mid-to-wide shots, slow smooth circular tracking, slow-motion during spins, slight push-in during emotional moments. Cool white-blue color palette with subtle amber highlights. Ink-wash painting aesthetic. Backlight creating cool white rim light around the dancer's silhouette. The translucent fabric texture visible in every frame. Cinematic shallow depth of field, 2.35:1 widescreen. Soft ethereal glow throughout.
+
+No text overlays, no watermarks. Smooth natural dance movements with flowing fabric physics.
