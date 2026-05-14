@@ -142,7 +142,13 @@ cd cases/
 
 如果这个项目对你有帮助，欢迎请我喝咖啡 ☕
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4)](https://github.com/sponsors/你的用户名)
+> ⚠️ GitHub Sponsors 暂不支持中国大陆银行卡，以下为直接赞赏方式
+
+| 微信赞赏码 | 支付宝赞赏码 |
+|:---:|:---:|
+| ![微信](assets/wechat_qr.png) | ![支付宝](assets/alipay_qr.png) |
+
+> *📌 将你的收款码图片命名为 `wechat_qr.png` 和 `alipay_qr.png` 放入 `assets/` 目录即可*
 
 ---
 
